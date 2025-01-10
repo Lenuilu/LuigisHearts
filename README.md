@@ -10,3 +10,5 @@ This texture pack requires <a href="https://github.com/Kekulism/DeckSkinsLite"> 
 DeckSkinsLite by <a href="https://github.com/Kekulism"> Kekulism.</a>
 
 urasekai-hearts readme.md file by <a href="https://github.com/Noranek0451"> Noraneko.</a> (i shamelessly used it as a template for this readme.) 
+
+All assets come from Nintendo. Ive made some recreations of power ups in Luigi's Picture Poker style. Also Princess Peach is here as well!
