@@ -8,4 +8,4 @@ This texture pack requires <a href="https://github.com/Kekulism/DeckSkinsLite"> 
 # Credits
 DeckSkinsLite by <a href="https://github.com/Kekulism"> Kekulism.</a>
 
-urasekai-hearts readme.md file by <a href="https://github.com/Noranek0451"> Noraneko.</a> (who i shamelessly used it as a template for this readme.) 
+urasekai-hearts readme.md file by <a href="https://github.com/Noranek0451"> Noraneko.</a> (i shamelessly used it as a template for this readme.) 
