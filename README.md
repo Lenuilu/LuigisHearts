@@ -7,4 +7,5 @@ Consider this a demo that only includes the hearts suit :D
 This texture pack requires <a href="https://github.com/Kekulism/DeckSkinsLite"> DeckSkinsLite</a> to implement the textures properly. Once you have DeckSkinsLite set up, extract the zip file and copy the contents to the mod folder (...\AppData\Roaming\Balatro\Mods\DeckSkinsLite). From there, you should be all good to go!
 # Credits
 DeckSkinsLite by <a href="https://github.com/Kekulism"> Kekulism.</a>
+
 urasekai-hearts readme.md file by <a href="https://github.com/Noranek0451"> Noraneko.</a> (who i shamelessly used it as a template for this readme.) 
